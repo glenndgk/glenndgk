@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://glenndgk.github.io/glenndeveloper/">Glenn Ortiz</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/Ut8KwLD.png">
+<img src="https://i.imgur.com/enaUDVa.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXzxKoAXu-n2wIxXbl5Y2eg)](https://www.youtube.com/channel/UCXzxKoAXu-n2wIxXbl5Y2eg)
 [![Twitch Status](https://img.shields.io/twitch/status/glenndgk)](https://www.twitch.tv/glenndgk)
