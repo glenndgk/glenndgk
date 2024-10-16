@@ -52,11 +52,11 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">El Pantanal</h3>
+<h3 align="center">Icaro Industria</h3>
 <div align="center">
-<a href="https://www.elpantanalgt.com/" target="_blank"><img src="https://i.imgur.com/JYgzQcA.png" width="400" alt="El Pantanal"></a>
+<a href="https://icaroindustria.com/" target="_blank"><img src="https://i.imgur.com/JYgzQcA.png" width="400" alt="Icaro Industria"></a>
 
-<p>Centro Recreativo ubicado en Guatemala, Huehuetenango, el cual goza de muchas actividades y recreaciones con ambiente natural y pet friendly. Creado con Html, Css, JavaScript y Wordpress</p>
+<p>Plataforma de Cineastas Guatemalteca. Agenda tus citas, chatea con proyectos o empresas. Creado con Html, Css, JavaScript y Wordpress</p>
 </div>
                                                                                       
 </td>  
