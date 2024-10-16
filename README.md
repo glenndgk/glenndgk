@@ -49,14 +49,42 @@
 <p>ToyFight es un estudio de diseño divertido que crea marcas y experiencias digitales inconfundiblemente originales. Creada con Next.Js</p>
 </div>
                                                                                       
-</td>       
+</td> 
+
+<td width="50%">
+<h3 align="center">El Pantanal</h3>
+<div align="center">
+<a href="https://elpantanalgt.com/" target="_blank"><img src="https://i.imgur.com/JYgzQcA.png" width="400" alt="El Pantanal"></a>
+
+<p>Centro Recreativo ubicado en Guatemala, Huehuetenango, Chiantla. Creado con Html, Css, JavaScript y Wordpress</p>
+</div>
+</td>
 
 <td width="50%">
 <h3 align="center">Icaro Industria</h3>
 <div align="center">
-<a href="https://icaroindustria.com/" target="_blank"><img src="https://i.imgur.com/JYgzQcA.png" width="400" alt="Icaro Industria"></a>
+<a href="https://icaroindustria.com/" target="_blank"><img src="https://imgur.com/a/Snq1i46" width="400" alt="Icaro Industria"></a>
 
 <p>Plataforma de Cineastas Guatemalteca. Agenda tus citas, chatea con proyectos o empresas. Creado con Html, Css, JavaScript y Wordpress</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Alcance Estudio</h3>
+<div align="center">
+<a href="https://alcanceestudio.com/" target="_blank"><img src="https://imgur.com/a/i7rvdcC" width="400" alt="Alcance Estudio"></a>
+
+<p>Estudio de Arquitectos. Dedicados al diseño, construcción, remodelación, mantenimiento de todo tipo de inmueble y mobiliario. Creado con Html, Css, JavaScript y Wordpress</p>
+</div>
+                                                                                      
+</td>  
+
+<td width="50%">
+<h3 align="center">Bekaus</h3>
+<div align="center">
+<a href="https://bekaus.com/" target="_blank"><img src="https://imgur.com/a/lbMHpY0" width="400" alt="Bekaus"></a>
+
+<p>¡Tienda en línea con productos novedosos, de calidad y al precio justo!. Creado con Html, Css, JavaScript y Wordpress</p>
 </div>
                                                                                       
 </td>  
